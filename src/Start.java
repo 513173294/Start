@@ -7,5 +7,8 @@ public class Start {
         System.out.println("commitowania");
         System.out.println("jednakże to");
         System.out.println("co było");
+        System.out.println("na zajęciach");
+        System.out.println("w domu już nie jest tak" +
+                "oczywiste");
     }
 }
