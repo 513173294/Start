@@ -4,11 +4,11 @@ public class Start {
         System.out.println("się");
         System.out.println("programowania");
         System.out.println("i");
-        System.out.println("commitowania");
-        System.out.println("jednakże to");
+        System.out.print("commitowania,");
+        System.out.println(" jednakże to");
         System.out.println("co było");
-        System.out.println("na zajęciach");
-        System.out.println("w domu już nie jest tak" +
+        System.out.print("na zajęciach,");
+        System.out.println(" w domu już nie jest takie" +" " +
                 "oczywiste");
     }
 }
